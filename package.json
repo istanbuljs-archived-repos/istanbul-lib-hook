@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/istanbuljs/istanbul-lib-hook/issues"
   },
-  "homepage": "https://github.com/istanbuljs/istanbul-lib-hook#readme"
+  "homepage": "https://github.com/istanbuljs/istanbul-lib-hook#readme",
+  "dependencies": {
+    "pirates": "^2.0.0"
+  }
 }
